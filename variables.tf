@@ -1,7 +1,3 @@
-variable "account_name" {
-  default = "ograb"
-}
-
 variable "region" {
   default = "eu-west-1"
 }
